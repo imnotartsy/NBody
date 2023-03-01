@@ -1,8 +1,13 @@
-## README
+# README
 
 Hi! This python module `nbody` simulates a set of 'n_bodies' for tf seconds.
 Below are the public functions for the module
 
+Get this library with:
+```git clone https://github.com/imnotartsy/NBody```
+
+Get Started with:
+```python3 nbody_examples.py```
 
   
 ## Function Headers
@@ -62,5 +67,4 @@ Returns a "times" dictionary with the following structure:
         ...
     }
     ```
-
 
